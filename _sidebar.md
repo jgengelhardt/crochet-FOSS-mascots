@@ -10,6 +10,7 @@ SPDX-License-Identifier: CC0-1.0
     - [Bugdroid](/Patterns/bugdroid-pattern.md "Bugdroid - Crochet Pattern")
     - [Ferris the Rustacean](/Patterns/ferris-pattern.md "Ferris - Crochet Pattern")
     - [Kiki the Cybersquirrel](/Patterns/kiki-pattern.md "Kiki - Crochet Pattern")
+    - [Konqi the Dragon](/Patterns/konqi-pattern.md "Konqi - Crochet Pattern")
     - [Tux the Penguin](/Patterns/tux-pattern.md "Tux - Crochet Pattern")
     - [Wapuu the Dog](/Patterns/wapuu-pattern.md "Wapuu - Crochet Pattern")
 - [Mascot List](mascot-list.md)

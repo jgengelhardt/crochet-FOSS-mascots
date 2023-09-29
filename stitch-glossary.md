@@ -1,5 +1,10 @@
 # Stitch Glossary
 
+<!--
+SPDX-FileCopyrightText:  2023 Joseph Engelhardt <subvisser5@gmail.com>
+SPDX-License-Identifier: CC0-1.0
+-->
+
 Defining abbreviations used in the patterns.
 
 * ch: chain
